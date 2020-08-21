@@ -12,7 +12,7 @@ def
   
     
   lowest_value = 0.00
-  lowest_key   = :somekey
+  lowest_key   = nil
   # -x-  lowest_key   = :somekey    ~
 
     puts "
