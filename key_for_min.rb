@@ -31,7 +31,7 @@ def
   # #or if you prefer:
   #   puts "(lowest_value):: {|| #{lowest_value} ||}  X"
 
-  #lowest_value = name_hash.values[0]
+  lowest_value = name_hash.values[0]
   puts "(lowest_value):: {|| #{lowest_value} ||}  V * * "
 
 
