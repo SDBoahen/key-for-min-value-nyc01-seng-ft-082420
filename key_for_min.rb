@@ -23,7 +23,7 @@ def
 
   lowest_value = name_hash.first
 
-    puts "(lowest_value):: {|| #{lowest_value} ||}  X"
+  puts "(lowest_value):: {|| #{lowest_value} ||}  X"
 
 
   # {...}
@@ -31,9 +31,8 @@ def
   # #or if you prefer:
   #   puts "(lowest_value):: {|| #{lowest_value} ||}  X"
 
-  lowest_value = name_hash.values[0]
-  #or if you prefer:
-    puts "(lowest_value):: {|| #{lowest_value} ||}  V * * "
+  #lowest_value = name_hash.values[0]
+  puts "(lowest_value):: {|| #{lowest_value} ||}  V * * "
 
 
   puts "
