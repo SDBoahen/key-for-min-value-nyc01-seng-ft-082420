@@ -9,7 +9,7 @@ def
   puts "(name_hash):: {|| #{name_hash} ||}"
   
     
-  lowest_value = 0.00
+  lowest_value = 400,000,000,000,000,000  #0.00
   lowest_key   = nil
   # -x-  lowest_key   = :somekey    ~
 
