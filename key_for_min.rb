@@ -14,8 +14,6 @@ def
   # -x-  lowest_key   = :somekey    ~
 
 
-
-"
   puts "(lowest_value):: {|| #{lowest_value} ||}
   
   LEHDO-EHYT !
