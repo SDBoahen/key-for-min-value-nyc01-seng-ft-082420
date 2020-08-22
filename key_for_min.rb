@@ -6,40 +6,12 @@ def
   key_for_min_value(name_hash)
 
 
-
-
   puts "(name_hash):: {|| #{name_hash} ||}"
   
     
   lowest_value = 0.00
   lowest_key   = nil
   # -x-  lowest_key   = :somekey    ~
-
-    puts "
-****#### TEST  ####****
-
-"
-  puts "(lowest_value):: {|| #{lowest_value} ||}  V"
-
-  lowest_value = name_hash.first
-
-  puts "(lowest_value):: {|| #{lowest_value} ||}  X"
-
-
-  # {...}
-  # lowest_value = name_hash.keys[0]
-  # #or if you prefer:
-  #   puts "(lowest_value):: {|| #{lowest_value} ||}  X"
-
-  #lowest_value = name_hash.values[0]
-  puts "(lowest_value):: {|| #{lowest_value} ||}  V * * "
-
-
-  puts "
-****#### TEST  ####****
-
-[V]  ` ` BET ` ` 
-
 
 
 
@@ -60,7 +32,7 @@ def
       # -X- (<) // I D K . . . >_> but it works now :I //
       # {...}(>=)
 
-      #lowest_key    = product
+      lowest_key    = product
       lowest_value  = value  end
 
           ## -T- ##
