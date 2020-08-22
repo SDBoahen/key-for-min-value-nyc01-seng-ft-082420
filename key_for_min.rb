@@ -36,7 +36,7 @@ def
           ## -T- ##
           puts "(lowest_key)::   {|| #{lowest_key} ||}  ***"
           ## -T- ##
-                #  XX-  lowest_key    = product
+                lowest_key    = product
 
                  end
   #
